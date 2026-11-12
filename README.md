@@ -24,7 +24,7 @@
 ***Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?***
 
 ##
-***¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?**
+***¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?***
 
 ##
 ***¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?***
@@ -33,7 +33,7 @@
 ***¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?***
 
 ##
-***¿Para qué se requiere el sistema de presión negativa?**
+***¿Para qué se requiere el sistema de presión negativa?***
 
 
 
