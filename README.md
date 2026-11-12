@@ -1,0 +1,1 @@
+# Lab-6-Reconocimiento-de-partes-y-funcionamiento-de-una-m-quina-de-anestesia
