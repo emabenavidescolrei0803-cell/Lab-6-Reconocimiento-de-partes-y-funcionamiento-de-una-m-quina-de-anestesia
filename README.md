@@ -5,6 +5,8 @@
 
 ## Parte A
 
+La máquina de anestesia (actualmente denominada estación de trabajo de anestesia) es un sistema electromecánico y neumático de alta precisión diseñado para suministrar de forma continua, controlada y segura una mezcla de gases medicinales y vapores anestésicos al paciente, al tiempo que proporciona soporte ventilatorio y monitorización fisiológica integral durante los procedimientos quirúrgicos.[6]
+
 ## 
 ***¿Cuántos y cuáles son los tipos de anestesia que comúnmente se aplican durante una cirugía?*** 
 
