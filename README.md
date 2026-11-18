@@ -175,3 +175,9 @@ El modelo Mindray WATO EX-35 representa una evolución tecnológica y clínica s
 
 [9] Ehrenwerth, J., Eisenkraft, J. B., & Berry, J. M. (2020). Anesthesia equipment: Principles and applications (3.ª ed.). Elsevier.
 
+[10] Mindray, “WATO EX-20,” Mindray. [En línea]. Disponible en: https://www.mindray.com/co/products/anesthesia/wato-ex-20.
+
+[11] N. E. Hill y D. B. Horn, “Anesthesia Machine,” StatPearls [Internet], StatPearls Publishing, Nov. 17, 2022. [En línea]. Disponible en: https://www.ncbi.nlm.nih.gov/sites/books/NBK572060/. 
+
+[12] Hibbert Medical, “The Anesthesia Machine: Structure, Function, and Checkout,” Hibbert Medical. [En línea]. Disponible en: https://hibbertmed.com/lectures/residency/anesthesiology/58-the-anesthesia-machine-structure-function-and-checkout
+
