@@ -96,6 +96,30 @@ Cualquiera de los tres gases medicinales principales con los que trabaja la máq
 
 ## Parte B 
 
+La WATO EX-20 de Mindray es una máquina de anestesia ergonómica diseñada para administrar anestesia general en quirófano a pacientes pediátricos y adultos (gracias a su volumen corriente mínimo de 40 ml que evita cambiar el circuito de respiración y la hace apta para anestesia de flujo bajo). Cuenta con un respirador controlado electrónicamente y de accionamiento neumático con modos manuales, VCV, modo de presión, VISO y VAP, suministro de O₂, N₂O y aire, dos posiciones de vaporizador, salida de gas común auxiliar (ACGO), sensor de oxígeno, compensación dinámica de gas y un diseño patentado de tres sensores de flujo para mayor precisión. Su interfaz incluye una pantalla a color de 7,4” que muestra hasta 3 formas de onda (Pta, TVe, MV, Ppico y Pmedia), gráficos simultáneos de presión y flujo, tendencias de 24 horas para eventos de alarma y compatibilidad con monitores de paciente Mindray, además de medición externa para el flujo lateral de EtCO2\. Finalmente, integra un circuito de respiración compacto con válvula de derivación de CO2 —que permite intercambiar los recipientes de CO2 durante la cirugía— y mensajes en pantalla que confirman el montaje correcto y seguro tanto del recipiente de CO2 como del circuito [10].
+
+Para la máquina de anestesia WATOEX-20 presente en el laboratorio se identificaron los siguientes componentes:
+
+- ***Vaporizador:***
+
+  <img width="500" alt="WhatsApp Image 2026-11-18 at 1 14 37 PM" src="https://github.com/user-attachments/assets/43e4de87-6cf9-443c-8d66-2efcd257dbb4" />
+
+  <img width="500"  alt="image" src="https://github.com/user-attachments/assets/4d33f68a-b956-451d-bbb7-1155384a70a8" />
+
+
+- ***Válvula APL:***
+
+  <img width="500"  alt="WhatsApp Image 2026-11-18 at 1 12 32 PM" src="https://github.com/user-attachments/assets/cd4db952-335b-47ab-8382-ee6d5852ee52" />
+
+- ***Recipiente absorbente de CO2:***
+
+  <img width="500"  alt="WhatsApp Image 2026-11-18 at 1 13 21 PM" src="https://github.com/user-attachments/assets/11a5eedd-3b8b-4c3c-9be9-5b153c473dc2" />
+
+- ***Fuelle:***
+
+  <img width="500"  alt="WhatsApp Image 2026-11-18 at 12 48 21 PM" src="https://github.com/user-attachments/assets/582c7d8c-7d6e-4562-8cc7-e087b9c83aad" />
+
+
 ##
 ***Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?***
 
