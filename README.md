@@ -101,6 +101,7 @@ La WATO EX-20 de Mindray es una máquina de anestesia ergonómica diseñada para
 Para la máquina de anestesia WATOEX-20 presente en el laboratorio se identificaron los siguientes componentes:
 
 - ***Vaporizador:***
+Su función es mezclar con precisión el flujo de gas fresco con un anestésico volátil para administrar una dosis regulada y calculada de anestésico al paciente. En los vaporizadores de desvío variable, una fracción del gas fresco entra en la cámara de vaporización donde se satura con el anestésico líquido y posteriormente se vuelve a mezclar con el resto del flujo, compensando las variaciones de temperatura para mantener una salida constante [11],[12].
 
   <img width="500" alt="WhatsApp Image 2026-11-18 at 1 14 37 PM" src="https://github.com/user-attachments/assets/43e4de87-6cf9-443c-8d66-2efcd257dbb4" />
 
@@ -108,14 +109,17 @@ Para la máquina de anestesia WATOEX-20 presente en el laboratorio se identifica
 
 
 - ***Válvula APL:***
+Actúa como una válvula de alivio de presión para liberar el exceso de gas del circuito respiratorio y prevenir presiones elevadas que podrían causar barotrauma en el paciente o daños en el equipo[11]. Durante la ventilación espontánea permanece abierta para no ofrecer resistencia a la respiración del paciente, mientras que en la ventilación manual se cierra parcialmente para permitir la insuflación a través de la bolsa reservorio, derivando el exceso de gas hacia el sistema de evacuación [11],[12].
 
   <img width="500"  alt="WhatsApp Image 2026-11-18 at 1 12 32 PM" src="https://github.com/user-attachments/assets/cd4db952-335b-47ab-8382-ee6d5852ee52" />
 
 - ***Recipiente absorbente de CO2:***
+Su función principal es eliminar químicamente el dióxido de carbono (CO₂) del gas espirado por el paciente mediante absorbentes como hidróxido de calcio o de sodio. Al retener el CO₂, evita que el paciente lo vuelva a inhalar y permite purificar y reciclar los gases espirados en el circuito en círculo, lo que habilita la anestesia de bajo flujo [11],[12]. En la WATO EX-20, el circuito incluye una válvula de derivación que permite reemplazar el recipiente de CO₂ durante la cirugía sin interrumpir el procedimiento [10].
 
   <img width="500"  alt="WhatsApp Image 2026-11-18 at 1 13 21 PM" src="https://github.com/user-attachments/assets/11a5eedd-3b8b-4c3c-9be9-5b153c473dc2" />
 
 - ***Fuelle:***
+Durante la ventilación mecánica, el fuelle del respirador sustituye la función de la bolsa reservorio manual. Su función es comprimirse y expandirse activamente para desplazar el volumen de gas seleccionado hacia los pulmones del paciente durante la fase inspiratoria y recibir el gas durante la espiración [12]
 
   <img width="500"  alt="WhatsApp Image 2026-11-18 at 12 48 21 PM" src="https://github.com/user-attachments/assets/582c7d8c-7d6e-4562-8cc7-e087b9c83aad" />
 
