@@ -186,11 +186,4 @@ La caracterización técnica y funcional de una estación de trabajo de anestesi
 
 [12] Hibbert Medical, “The Anesthesia Machine: Structure, Function, and Checkout,” Hibbert Medical. [En línea]. Disponible en: https://hibbertmed.com/lectures/residency/anesthesiology/58-the-anesthesia-machine-structure-function-and-checkout
 
-[13] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., WATO EX-20/30/35 Anesthesia Machine Service Manual, Shenzhen, China: Mindray, 2010.
-
-[14] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., "Máquinas de anestesia: WATO EX-20," Mindray Global, 2020\. [En línea]. Disponible en: https://www.mindray.com
-
-[15] A. Hibbert, "The Anesthesia Machine: Structure, Function, and Checkout," Hibbert Medical, 2021\. [En línea]. 
-
-[16] StatPearls, "Anesthesia Machine," NCBI Bookshelf, Treasure Island, FL: StatPearls Publishing, 2023\. [En línea].
 
