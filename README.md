@@ -127,19 +127,23 @@ Durante la ventilación mecánica, el fuelle del respirador sustituye la funció
 ##
 ***Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?***
 
+Si el ventilador muestra la alarma de batería en uso con un paciente conectado, la acción inmediata es verificar y reinsertar firmemente el cable de alimentación a la toma de corriente de red del quirófano para restaurar la energía de CA, comprobando que se encienda el indicador LED de red eléctrica. Paralelamente, se debe revisar en pantalla la autonomía restante de la batería, verificar que los fusibles de la toma no se hayan disparado y preparar de inmediato una bolsa de reanimación manual (Ambú) conectada a una fuente de O₂ independiente como respaldo por si la energía se agota antes de solucionar la falla eléctrica.
 ##
 ***¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?***
 
+El recipiente absorbente debe reemplazarse cuando entre el 50% y dos tercios (2/3) de la masa de la cal sodada haya cambiado de color (por ejemplo, de blanco a violeta), o de forma inmediata si la capnografía detecta reinhalación de dióxido de carbono en la fase inspiratoria (FiCO₂ > 0–2 mmHg). De igual manera, se debe cambiar la junta de sellado del soporte del recipiente durante el mantenimiento preventivo anual (cada 12 meses) e inspeccionar el estado de la cal antes de su uso si el equipo ha permanecido inactivo con flujo de gas seco por tiempo prolongado.
 ##
 ***¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?***
 
+Para verificar fugas en el cilindro de alta presión, se enciende el equipo, se cierra el flujómetro auxiliar, se abre lentamente la válvula del cilindro y se anota la presión inicial del manómetro. Tras cerrar por completo la válvula del cilindro, se espera un minuto y se toma una nueva lectura; se considera que existe una fuga si la presión del gas motriz disminuye más de 5000 kPa (~725 psi) o si la de los gases no motrices cae más de 690 kPa (~100 psi) en ese intervalo, en cuyo caso debe reemplazarse el sello de la yunta.
 ##
 ***¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?***
 
+La presencia del sensor de O₂ influye significativamente en la prueba, ya que sin él la verificación se limita a la inspección visual del movimiento de los flotadores en los tubos y al funcionamiento del enlace mecánico entre el O₂ y el N₂O. Al contar con el sensor de O₂, la prueba permite medir electrónicamente y en tiempo real la concentración real de oxígeno entregada (FiO₂), validando que el sistema de proporción mantenga de forma automática un nivel seguro (≥ 21% o 25% de O₂) en todo el rango de flujo y activando alarmas si la proporción decae.
 ##
 ***¿Para qué se requiere el sistema de presión negativa?***
 
-
+El sistema de presión negativa se requiere para dos aplicaciones críticas en el quirófano: la unidad de aspiración médica, que genera el vacío controlado necesario para remover sangre, fluidos y secreciones de la vía aérea del paciente, y el sistema de evacuación activa de gases anestésicos (AGSS), que aspira los gases residuales que escapan del circuito respiratorio para evitar la contaminación del aire en el quirófano y proteger la salud del personal.
 
 
 ## Preguntas 
@@ -180,4 +184,12 @@ El modelo Mindray WATO EX-35 representa una evolución tecnológica y clínica s
 [11] N. E. Hill y D. B. Horn, “Anesthesia Machine,” StatPearls [Internet], StatPearls Publishing, Nov. 17, 2022. [En línea]. Disponible en: https://www.ncbi.nlm.nih.gov/sites/books/NBK572060/. 
 
 [12] Hibbert Medical, “The Anesthesia Machine: Structure, Function, and Checkout,” Hibbert Medical. [En línea]. Disponible en: https://hibbertmed.com/lectures/residency/anesthesiology/58-the-anesthesia-machine-structure-function-and-checkout
+
+[13] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., WATO EX-20/30/35 Anesthesia Machine Service Manual, Shenzhen, China: Mindray, 2010.
+
+[14] Shenzhen Mindray Bio-Medical Electronics Co., Ltd., "Máquinas de anestesia: WATO EX-20," Mindray Global, 2020\. [En línea]. Disponible en: https://www.mindray.com
+
+[15] A. Hibbert, "The Anesthesia Machine: Structure, Function, and Checkout," Hibbert Medical, 2021\. [En línea]. 
+
+[16] StatPearls, "Anesthesia Machine," NCBI Bookshelf, Treasure Island, FL: StatPearls Publishing, 2023\. [En línea].
 
